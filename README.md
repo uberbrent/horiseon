@@ -15,5 +15,12 @@ content section and benefits sections.
 The live website can be found at https://uberbrent.github.io/horiseon/
 
 ## Screenshots
-![Website Top](/assets/images/website-top.png)
-![Website Middle](/assets/images/website-middle.png)
+Example of the updated HTML for easier reading:
+![HTML Screen](assets/images/html-screen.png)
+
+Example of the CSS consolidation with notes:
+![CSS Screen](assets/images/css-screen.png)
+
+The completed website:
+![Website Top](assets/images/website-top.PNG)
+![Website Middle](assets/images/website-middle.PNG)
